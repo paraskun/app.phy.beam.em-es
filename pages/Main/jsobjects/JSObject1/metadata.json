@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "695f966261cc98213322d4b5_d3693f78-bb3c-4c18-84a4-8514ffa5edb9",
+  "id": "Main_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Main",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "state",
+        "value": "\"down\""
+      }
+    ]
+  }
+}
