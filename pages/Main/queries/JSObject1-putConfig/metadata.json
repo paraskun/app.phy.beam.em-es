@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "695f966261cc98213322d4b5_eb330a4a-73b6-4644-b05d-bb904340321f",
-  "id": "Main_JSObject1.getState",
+  "gitSyncId": "695f966261cc98213322d4b5_9eac96b5-9c81-4a6a-9302-31c5fa50dece",
+  "id": "Main_JSObject1.putConfig",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
@@ -10,7 +10,6 @@
       "paginationType": "NONE",
       "timeoutInMillisecond": 10000
     },
-    "clientSideExecution": true,
     "collectionId": "Main_JSObject1",
     "confirmBeforeExecute": false,
     "datasource": {
@@ -23,10 +22,10 @@
         "key": "body"
       }
     ],
-    "fullyQualifiedName": "JSObject1.getState",
-    "name": "getState",
+    "fullyQualifiedName": "JSObject1.putConfig",
+    "name": "putConfig",
     "pageId": "Main",
     "runBehaviour": "MANUAL",
-    "userSetOnLoad": true
+    "userSetOnLoad": false
   }
 }

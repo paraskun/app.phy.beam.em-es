@@ -9,7 +9,11 @@
     "variables": [
       {
         "name": "state",
-        "value": "\"down\""
+        "value": "\"Down\""
+      },
+      {
+        "name": "config",
+        "value": "{}"
       }
     ]
   }

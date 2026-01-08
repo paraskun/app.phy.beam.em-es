@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 84,
+  "bottomRow": 15,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -11,45 +11,40 @@
     },
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "text"
     }
   ],
-  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicHeight": "FIXED",
   "dynamicTriggerPathList": [],
   "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1rem",
   "fontStyle": "BOLD",
   "isLoading": false,
   "isVisible": true,
-  "key": "5hbvranbl5",
-  "leftColumn": 18,
+  "key": "ugebja5ukv",
+  "leftColumn": 0,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
-  "mobileBottomRow": 74,
-  "mobileLeftColumn": 8,
-  "mobileRightColumn": 24,
-  "mobileTopRow": 70,
+  "mobileBottomRow": 7,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 16,
+  "mobileTopRow": 3,
   "needsErrorInfo": false,
-  "originalBottomRow": 84,
-  "originalTopRow": 80,
   "overflow": "NONE",
-  "parentColumnSpace": 20.5625,
-  "parentId": "0",
+  "parentColumnSpace": 4.58935546875,
+  "parentId": "jqur9hb5yr",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 25,
+  "rightColumn": 17,
   "shouldTruncate": false,
-  "text": "{{JSObject1.state}}",
+  "text": "1M1L",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 80,
+  "topRow": 0,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "1gu8pe8y77",
-  "widgetName": "Text1"
+  "widgetId": "eu5mb7w76b",
+  "widgetName": "Text2Copy1Copy1"
 }

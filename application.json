@@ -1,12 +1,15 @@
 {
   "appIsExample": false,
+  "appLayout": {
+    "type": "FLUID"
+  },
   "applicationDetail": {
     "navigationSetting": {
       "colorStyle": "light",
       "logoAssetId": "",
       "logoConfiguration": "logoAndApplicationTitle",
-      "navStyle": "stacked",
-      "orientation": "top",
+      "navStyle": "sidebar",
+      "orientation": "side",
       "position": "static",
       "showNavbar": true,
       "showSignIn": true
@@ -25,15 +28,22 @@
     {
       "id": "Main",
       "isDefault": true
+    },
+    {
+      "id": "Chart",
+      "isDefault": false
     }
   ],
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
   "unpublishedApplicationDetail": {
     "navigationSetting": {
       "colorStyle": "light",
       "logoAssetId": "",
       "logoConfiguration": "logoAndApplicationTitle",
-      "navStyle": "stacked",
-      "orientation": "top",
+      "navStyle": "sidebar",
+      "orientation": "side",
       "position": "static",
       "showNavbar": true,
       "showSignIn": true

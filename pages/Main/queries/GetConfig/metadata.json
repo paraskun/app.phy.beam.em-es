@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "695f966261cc98213322d4b5_935787b3-38f5-45bd-a494-7154de663e1e",
-  "id": "Main_State",
+  "gitSyncId": "695f966261cc98213322d4b5_c37acd7f-8eef-4552-a136-cf79f29c0582",
+  "id": "Main_GetConfig",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
   "unpublishedAction": {
@@ -16,7 +16,7 @@
       "httpMethod": "GET",
       "httpVersion": "HTTP11",
       "paginationType": "NONE",
-      "path": "/svc/beam.em-es/state",
+      "path": "/svc/beam.em-es/config",
       "pluginSpecifiedTemplates": [
         {
           "value": true
@@ -33,7 +33,7 @@
       "pluginId": "restapi-plugin"
     },
     "dynamicBindingPathList": [],
-    "name": "State",
+    "name": "GetConfig",
     "pageId": "Main",
     "runBehaviour": "MANUAL",
     "userSetOnLoad": false
