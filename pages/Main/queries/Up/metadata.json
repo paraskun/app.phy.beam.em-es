@@ -16,7 +16,7 @@
       "httpMethod": "GET",
       "httpVersion": "HTTP11",
       "paginationType": "NONE",
-      "path": "/svc/beam.em-es/up",
+      "path": "/svc/phy.beam.em-es/up",
       "pluginSpecifiedTemplates": [
         {
           "value": true
