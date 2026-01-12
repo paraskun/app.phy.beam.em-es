@@ -32,6 +32,10 @@
     {
       "id": "Chart",
       "isDefault": false
+    },
+    {
+      "id": "Simulation",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {

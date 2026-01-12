@@ -1,0 +1,53 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 52,
+  "boxShadow": "none",
+  "buttonColor": "{{State.autorefresh ? \"#15803d\" : \"#b91c1c\"}}",
+  "buttonVariant": "PRIMARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "buttonColor"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconName": "refresh",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "hy6zdrsbqn",
+  "leftColumn": 52,
+  "minWidth": 50,
+  "mobileBottomRow": 49,
+  "mobileLeftColumn": 57,
+  "mobileRightColumn": 61,
+  "mobileTopRow": 45,
+  "needsErrorInfo": false,
+  "onClick": "{{State.toggle();}}",
+  "originalBottomRow": 49,
+  "originalTopRow": 45,
+  "parentColumnSpace": 19.8125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 55,
+  "tooltip": "Automatic status updates",
+  "topRow": 48,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "py3yzksulu",
+  "widgetName": "autorefresh"
+}

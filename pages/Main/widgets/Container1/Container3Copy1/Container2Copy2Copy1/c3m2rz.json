@@ -2,13 +2,10 @@
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "animateLoading": true,
   "bottomRow": 15,
-  "defaultValue": "{{JSObject1.config.cams[\"3m2r\"].axes.z.weight}}",
+  "defaultValue": "1",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
-    },
-    {
-      "key": "defaultValue"
     }
   ],
   "dynamicTriggerPathList": [
@@ -47,7 +44,7 @@
   "mobileRightColumn": 63,
   "mobileTopRow": 0,
   "needsErrorInfo": false,
-  "onChange": "{{JSObject1.updateZ('3m2r', c3m2rz.value);}}",
+  "onChange": "{{Conf.setZ('3m2r', c3m2rz.value);}}",
   "parentColumnSpace": 4.58935546875,
   "parentId": "waovnzbvay",
   "parentRowSpace": 10,

@@ -11,7 +11,7 @@
           "value": "application/json"
         }
       ],
-      "body": "{{JSObject1.config}}",
+      "body": "{{Conf.config}}",
       "bodyFormData": [],
       "encodeParamsToggle": true,
       "formData": {

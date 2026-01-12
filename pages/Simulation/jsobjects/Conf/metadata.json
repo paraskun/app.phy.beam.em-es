@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "696112c3c9a9571c01682cdf_19af30cd-412d-4ebe-8e0d-cc2baa750a81",
+  "id": "Simulation_Conf",
+  "unpublishedCollection": {
+    "name": "Conf",
+    "pageId": "Simulation",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "value",
+        "value": "{\n  initialCurrent: 50,\n  beamLifeTime: 3000,\n  noise: 5\n}"
+      }
+    ]
+  }
+}
