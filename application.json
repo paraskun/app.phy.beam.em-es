@@ -26,11 +26,11 @@
   "evaluationVersion": 2,
   "pages": [
     {
-      "id": "Main",
+      "id": "Estimation",
       "isDefault": true
     },
     {
-      "id": "Chart",
+      "id": "Visualization",
       "isDefault": false
     },
     {

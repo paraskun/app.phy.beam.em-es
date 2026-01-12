@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "696112c3c9a9571c01682cdf_daff6fae-481d-46c8-ac62-3eb2189eeaad",
+  "id": "Estimation_State",
+  "unpublishedCollection": {
+    "name": "State",
+    "pageId": "Estimation",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "value",
+        "value": "\"Down\""
+      },
+      {
+        "name": "modified",
+        "value": "false"
+      },
+      {
+        "name": "autorefresh",
+        "value": "false"
+      }
+    ]
+  }
+}
