@@ -1,14 +1,11 @@
 {
   "animateLoading": true,
   "borderOpacity": 100,
-  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "borderWidth": 1,
-  "bottomRow": 64,
+  "borderRadius": "0.375rem",
+  "borderWidth": "0",
+  "bottomRow": 66,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "dynamicBindingPathList": [
-    {
-      "key": "borderRadius"
-    },
     {
       "key": "boxShadow"
     }
@@ -18,7 +15,7 @@
   "isLoading": false,
   "isVisible": true,
   "key": "juwflz79vf",
-  "leftColumn": 3,
+  "leftColumn": 2,
   "mobileBottomRow": 53,
   "mobileLeftColumn": 10,
   "mobileRightColumn": 34,
@@ -29,9 +26,9 @@
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 38,
-  "source": "http://localhost:3000/d-solo/add7sgt/beam?orgId=1&timezone=browser&panelId=panel-1&__feature.dashboardSceneSolo=true",
-  "topRow": 18,
+  "rightColumn": 35,
+  "source": "http://localhost:3000/d-solo/addx7ml/v2k-phy-beam-em-es?orgId=1&timezone=browser&tab=transformations&panelId=panel-1&__feature.dashboardSceneSolo=true",
+  "topRow": 19,
   "type": "IFRAME_WIDGET",
   "version": 1,
   "widgetId": "sqwdlid0lh",

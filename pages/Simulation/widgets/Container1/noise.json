@@ -1,0 +1,66 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "autoFocus": false,
+  "borderRadius": "1.5rem",
+  "bottomRow": 31,
+  "boxShadow": "none",
+  "defaultText": "5",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [
+    {
+      "key": "onSubmit"
+    },
+    {
+      "key": "onTextChanged"
+    }
+  ],
+  "iconAlign": "left",
+  "inputType": "NUMBER",
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "0bwyox0csj",
+  "label": "Measurement Noise, %",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelStyle": "",
+  "labelTextColor": "#d4d4d8",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 2,
+  "maxDynamicHeight": 9000,
+  "maxNum": "100",
+  "minDynamicHeight": 4,
+  "minNum": "0",
+  "minWidth": 450,
+  "mobileBottomRow": 34,
+  "mobileLeftColumn": 19,
+  "mobileRightColumn": 39,
+  "mobileTopRow": 27,
+  "needsErrorInfo": false,
+  "onSubmit": "",
+  "onTextChanged": "{{Conf.setNoise(Number(noise.text));}}",
+  "originalBottomRow": 43,
+  "originalTopRow": 36,
+  "parentColumnSpace": 19.8125,
+  "parentId": "kzocm5eqvm",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "resetOnSubmit": true,
+  "responsiveBehavior": "fill",
+  "rightColumn": 62,
+  "shouldAllowAutofill": false,
+  "showStepArrows": false,
+  "topRow": 24,
+  "type": "INPUT_WIDGET_V2",
+  "version": 2,
+  "widgetId": "6zm5hrufx6",
+  "widgetName": "noise"
+}

@@ -2,8 +2,8 @@
   "animateLoading": true,
   "borderOpacity": 100,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "borderWidth": 1,
-  "bottomRow": 42,
+  "borderWidth": "0",
+  "bottomRow": 44,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "dynamicBindingPathList": [
     {
@@ -30,8 +30,8 @@
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
   "rightColumn": 63,
-  "source": "http://localhost:3000/d-solo/add7sgt/beam?orgId=1&timezone=browser&tab=transformations&panelId=panel-3&__feature.dashboardSceneSolo=true",
-  "topRow": 1,
+  "source": "http://localhost:3000/d-solo/addx7ml/v2k-phy-beam-em-es?orgId=1&timezone=browser&tab=transformations&panelId=panel-4&__feature.dashboardSceneSolo=true",
+  "topRow": 3,
   "type": "IFRAME_WIDGET",
   "version": 1,
   "widgetId": "5foh80ngwd",

@@ -1,0 +1,50 @@
+{
+  "animateLoading": true,
+  "borderRadius": "1.5rem",
+  "bottomRow": 40,
+  "boxShadow": "none",
+  "buttonColor": "{{State.autorefresh ? \"#15803d\" : \"#b91c1c\"}}",
+  "buttonVariant": "PRIMARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "buttonColor"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconName": "stopwatch",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "hy6zdrsbqn",
+  "leftColumn": 47,
+  "minWidth": 50,
+  "mobileBottomRow": 49,
+  "mobileLeftColumn": 57,
+  "mobileRightColumn": 61,
+  "mobileTopRow": 45,
+  "needsErrorInfo": false,
+  "onClick": "{{State.toggle();}}",
+  "originalBottomRow": 49,
+  "originalTopRow": 45,
+  "parentColumnSpace": 19.8125,
+  "parentId": "kzocm5eqvm",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 53,
+  "tooltip": "Autorefresh",
+  "topRow": 36,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "py3yzksulu",
+  "widgetName": "autorefresh"
+}

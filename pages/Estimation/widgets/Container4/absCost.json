@@ -2,16 +2,13 @@
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "animateLoading": true,
   "autoFocus": false,
-  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "borderRadius": "1.5rem",
   "bottomRow": 22,
   "boxShadow": "none",
   "defaultText": "1e-10",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
-    },
-    {
-      "key": "borderRadius"
     }
   ],
   "dynamicHeight": "FIXED",
@@ -31,9 +28,10 @@
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
+  "labelTextColor": "#d6d6da",
   "labelTextSize": "0.875rem",
   "labelWidth": 5,
-  "leftColumn": 31,
+  "leftColumn": 32,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minNum": "1e-15",
@@ -52,7 +50,7 @@
   "renderMode": "CANVAS",
   "resetOnSubmit": true,
   "responsiveBehavior": "fill",
-  "rightColumn": 63,
+  "rightColumn": 61,
   "shouldAllowAutofill": false,
   "showStepArrows": false,
   "tooltip": "",

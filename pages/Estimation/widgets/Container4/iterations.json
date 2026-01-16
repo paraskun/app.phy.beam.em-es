@@ -2,19 +2,17 @@
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "animateLoading": true,
   "autoFocus": false,
-  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "borderRadius": "1.5rem",
   "bottomRow": 13,
   "boxShadow": "none",
   "defaultText": "1000",
   "dynamicBindingPathList": [
     {
       "key": "accentColor"
-    },
-    {
-      "key": "borderRadius"
     }
   ],
   "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [],
   "dynamicTriggerPathList": [
     {
       "key": "onTextChanged"
@@ -31,9 +29,10 @@
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
+  "labelTextColor": "#d6d6da",
   "labelTextSize": "0.875rem",
   "labelWidth": 5,
-  "leftColumn": 0,
+  "leftColumn": 2,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minNum": "10",
@@ -55,7 +54,7 @@
   "rightColumn": 30,
   "shouldAllowAutofill": false,
   "showStepArrows": false,
-  "tooltip": "Maximal number of algorithm iterations",
+  "tooltip": "Maximal number of algorithm iterations. Algorithm independent property.",
   "topRow": 7,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
